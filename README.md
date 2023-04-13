@@ -1,9 +1,4 @@
-# git-book
+# Backend Survival
 
-## git book test
+- 백엔드 생존코스 학습노트 입니다.
 
-* [Read Me](README.md)
-
-## test2
-
-* [Test Link](TEST.md)
