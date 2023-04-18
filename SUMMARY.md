@@ -9,3 +9,7 @@
   - [3. Http Server](week1/HTTPServer.md)
   - [4. Java HTTP Server](week1/JavaHTTPServer.md)
   - [5. Spring Web MVC](week1/SpringWebMvc.md)
+
+
+- [2주차](week2/README.md)
+  - [1. REST API](week2/RESTAPI.md)
