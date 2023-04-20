@@ -13,3 +13,7 @@
 
 - [2주차](week2/README.md)
   - [1. REST API](week2/RESTAPI.md)
+  - [2. URI & MIME type](week2/URI&MIMEtype.md)
+  - [3. Collection Pattern](week2/CollectionPattern.md)
+  - [4. Collection Pattern 적용](week2/CollectionPatternApply.md)
+  - [5. Spring Web MVC](week2/SpringWebMVC.md)
