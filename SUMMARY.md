@@ -17,3 +17,9 @@
   - [3. Collection Pattern](week2/CollectionPattern.md)
   - [4. Collection Pattern 적용](week2/CollectionPatternApply.md)
   - [5. Spring Web MVC](week2/SpringWebMVC.md)
+
+- [3주차](week3/README.md)
+  - [1. DTO](week3/DTO.md)
+  - [2. 직렬화](week3/Serialization.md)
+  - [3. Jackson ObjectMapper](week3/JacksonObjectMapper.md)
+  - [4. CORS](week3/CORS.md)
