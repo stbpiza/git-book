@@ -7,5 +7,8 @@
 <hr>
 
 ## Domain Model 이란
+- ㅇ
 ## Repository
+- ㅇ
 ## VO(Value Object)
+- ㅇ 
