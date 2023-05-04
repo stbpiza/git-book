@@ -7,7 +7,8 @@
 <hr>
 
 ## Domain Model 이란
-- ㅇ
+- 동작과 데이터를 모두 통합하는 도메인의 개체 모델
+- 
 ## Repository
 - ㅇ
 ## VO(Value Object)
