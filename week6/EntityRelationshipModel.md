@@ -6,5 +6,5 @@
 <hr>
 
 ## ERD(Entity-Relationship Model) 이란
-## Entity
-## 데이터베이스 정규화
+## Entity 
+## 데이터베이스 정규화 
