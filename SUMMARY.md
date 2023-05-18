@@ -31,3 +31,11 @@
 
 - [5주차](week5/README.md)
   - [1. DI & Spring Test](week5/DependencyInjection.md)
+
+- [6주차](week6/README.md)
+  - [1. Database](week6/Database.md)
+  - [2. Relational Model](week6/RelationalModel.md)
+  - [3. Relational Algerbra](week6/RelationalAlgerbra.md)
+  - [4. Entity-Relationship Model](week6/EntityRelationshipModel.md)
+  - [5. JDBC](week6/JDBC.md)
+  - [6. JdbcTemplate](week6/JDBCTemplate.md)
