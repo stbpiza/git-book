@@ -1,9 +1,3 @@
+## 학습 목표
 
-
-dfdfdf 
- ddd ddddddddddddddddddㅇㅇㄹdfd  dj
-
-
-
-dfdf 
-df dd   
+ORM 을 이용하여 객체지향 원칙을 따르는 도메인 객체를 영속화 할 수 있다.
