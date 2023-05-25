@@ -39,3 +39,10 @@
   - [4. Entity-Relationship Model](week6/EntityRelationshipModel.md)
   - [5. JDBC](week6/JDBC.md)
   - [6. JdbcTemplate](week6/JDBCTemplate.md)
+
+- [7주차](week7/README.md)
+  - [1. ORM](week7/ORM.md)
+  - [2. Hibernate](week7/Hibernate.md)
+  - [3. Embeddable](week7/Embeddable.md)
+  - [4. Relationship Mapping](week7/RelationshipMapping.md)
+  - [5. Spring Data JPA](week7/SpringDataJPA.md)
