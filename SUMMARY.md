@@ -46,3 +46,10 @@
   - [3. Embeddable](week7/Embeddable.md)
   - [4. Relationship Mapping](week7/RelationshipMapping.md)
   - [5. Spring Data JPA](week7/SpringDataJPA.md)
+
+- [8주차](week8/README.md)
+  - [1. DDD](week8/DDD.md)
+  - [2. Strategic Design](week8/StrategicDesign.md)
+  - [3. Entity, Value Object](week8/EntityValueObject.md)
+  - [4. Aggregate](week8/Aggregate.md)
+  - [5. Repository](week8/Repository.md)
