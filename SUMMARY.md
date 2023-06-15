@@ -60,4 +60,5 @@
   - [과제 도메인 주도 설계 핵심](week9/DomainDrivenDesignDistilled.md)
 
 - [10주차](week10/README.md)
-  - 
+  - [1. 애플리케이션 수준의 보안](week10/ApplicationSecurity.md)
+  - [2. 인증](week10/Authentication.md)
