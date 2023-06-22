@@ -65,3 +65,5 @@
 
 - [11주차](week11/README.md)
   - [1. Multipart FormData](week11/MultipartFormData.md)
+  - [2. Separation of Concerns](week11/SeparationOfConcerns.md)
+  - [3. Cloudinary](week11/Cloudinary.md)
