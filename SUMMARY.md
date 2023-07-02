@@ -71,3 +71,4 @@
 - [12주차](week12/README.md)
   - [1. CQRS](week12/CQRS.md)
   - [2. Redis](week12/Redis.md)
+  - [배달의 민족 케이스](week12/other.md)
