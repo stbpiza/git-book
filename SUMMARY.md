@@ -74,3 +74,7 @@
   - [배달의 민족 케이스](week12/other.md)
 
 - [13주차](week13/README.md)
+  - [1. 개발 준비](week13/preparation.md)
+  - [2. 카테고리 목록 확인](week13/categoryList.md)
+  - [3. 상품 목록](week13/productList.md)
+  - [4. 상품 상세](week13/product.md)
