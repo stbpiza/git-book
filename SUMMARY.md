@@ -78,3 +78,7 @@
   - [2. 카테고리 목록 확인](week13/categoryList.md)
   - [3. 상품 목록](week13/productList.md)
   - [4. 상품 상세](week13/product.md)
+
+- [14주차](week14/README.md)
+  - [1. Spring Security](week14/SpringSecurity.md)
+  - [2. 로그인, 로그아웃](week14/LoginLogout.md)
