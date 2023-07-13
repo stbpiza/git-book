@@ -82,3 +82,5 @@
 - [14주차](week14/README.md)
   - [1. Spring Security](week14/SpringSecurity.md)
   - [2. 로그인, 로그아웃](week14/LoginLogout.md)
+  - [3. 회원 정보 확인](week14/UserInfo.md)
+  - [4. 회원 가입](week14/SignUp.md)
