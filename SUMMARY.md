@@ -90,3 +90,8 @@
   - [2. 데이터베이스](week15/database.md)
   - [3. 장바구니에 상품 담기](week15/addProductToCart.md)
   - [4. 장바구니 확인](week15/checkCart.md)
+
+- [16주차](week16/README.md)
+  - [1. 주문하기](week16/order.md)
+  - [2. 결제 정보 확인](week16/checkPayInfo.md)
+  - [3. 주문 확인](week16/checkOrder.md)
