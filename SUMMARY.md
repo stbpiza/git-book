@@ -95,3 +95,10 @@
   - [1. 주문하기](week16/order.md)
   - [2. 결제 정보 확인](week16/checkPayInfo.md)
   - [3. 주문 확인](week16/checkOrder.md)
+
+- [17주차](week17/README.md)
+  - [1. 로그인, 로그아웃](week17/loginLogout.md)
+  - [2. 사용자 목록](week17/userList.md)
+  - [3. 카테고리 관리](week17/category.md)
+  - [4. 주문 관리](week17/order.md)
+  - [5. 상품 관리](week17/product.md)
